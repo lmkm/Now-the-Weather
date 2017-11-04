@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NeighborhoodWeather.iml" filepath="$PROJECT_DIR$/NeighborhoodWeather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Now-the-Weather-master.iml" filepath="$PROJECT_DIR$/Now-the-Weather-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
